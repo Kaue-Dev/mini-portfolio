@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/estilos.css">
+    <title>Mini Portfólio</title>
+  </head>
+
+  <body>
+    <main class="cartao">
+      <div class="minhas-informacoes">
+        <img src="./src/imagens/perfil" alt="foto de perfil" />
+        <h1 class="nome">Kauê Andrade Padilha</h1>
+        <h2 class="cargo">Desenvolvedor Front-end Júnior</h2>
+      </div>
+
+      <div class="conteudo">
+        <ul class="abas">
+          <li class="aba selecionado" id="sobre-mim">
+            <img src="./src/imagens/sobre.gif" alt="ícone de sobre mim" />
+          </li>
+          <li class="aba" id="minhas-redes">
+            <img src="./src/imagens/coracao.gif" alt="ícone de redes sociais" />
+          </li>
+        </ul>
+
+        <div class="informacoes-abas">
+          <div class="informacao selecionado" id="informacao-sobre-mim">
+            <h3 class="sub-titulo">Sobre-mim</h3>
+
+            <div class="descricao">
+              <p>
+                Olá! me chamo Kauê, sou técnico em informática formado pelo Instituto Federal do Paraná (IFPR).
+              </p>
+              <p>
+                Sou apaixonado por tecnologias novas, sempre procuro aprender mais e buscar uma evolução constante, atualmente estou com foco em aprendizado front-end, com conhecimentos avançados em <span>HTML, CSS e JavaScript</span> e futuramente frameworks, estou disponível e topo qualquer desafio!
+              </p>
+            </div>
+          </div>
+
+          <div class="informacao" id="informacao-minhas-redes">
+            <h3 class="sub-titulo">Redes sociais</h3>
+
+            <ul class="redes-sociais">
+                <li>
+                    <a href="https://twitter.com/s1mpleey" target="_blank" class="twitter">Twitter</a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/kauedev/" target="_blank" class="linkedin">LinkedIn</a>
+                </li>
+                <li>
+                    <a href="https://github.com/Kaue-Dev" target="_blank" class="github">GitHub</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="./src/js/index.js"></script>
+  </body>
+</html>
