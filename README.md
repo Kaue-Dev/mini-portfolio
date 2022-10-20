@@ -7,4 +7,4 @@
 
 <p>Esse projeto foi desenvolvido junto com o intuito de desenvolver um web site utilizando HTML, CSS e JavaScript</p>
 
-<p> Veja como ficou o projeto acessando o link a seguir. <a href="">Acesse aqui!</a></p>
+<p> Veja como ficou o projeto acessando o link a seguir. <a href="https://kaue-dev.github.io/mini-portfolio/">Acesse aqui!</a></p>
