@@ -1,4 +1,4 @@
-<h1> Mini portfólio </h1>
+<h1> Mini Portfólio </h1>
 
 <div class="container">
     <p> Imagem do design da página </p>
