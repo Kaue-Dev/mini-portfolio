@@ -2,9 +2,9 @@
 
 <div class="container">
     <p> Imagem do design da página </p>
-    <img src="./src/images/imagem_2022-07-30_220700106.png" alt="mini portfólio">
+    <img src="" alt="mini portfólio">
 </div>
 
-<p>Esse projeto foi desenvolvido junto a equipe DevEmDobro, durante um evento online onde o intuito era a criação de um projeto utilizando HTML, CSS e JavaScript</p>
+<p>Esse projeto foi desenvolvido junto com o intuito de desenvolver um web site utilizando HTML, CSS e JavaScript</p>
 
 <p> Veja como ficou o projeto acessando o link a seguir. <a href="">Acesse aqui!</a></p>
